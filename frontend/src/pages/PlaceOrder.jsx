@@ -102,7 +102,7 @@ const PlaceOrder = () => {
                     if (cartItems[items][item] > 0) {
                         const itemInfo = structuredClone(products.find(product => product._id === items))
                         if (itemInfo) {
-                            itemInfo.size = item
+                            itemInfo.color = item
                             itemInfo.quantity = cartItems[items][item]
                             orderItems.push(itemInfo)
                         }
@@ -221,3 +221,6 @@ const PlaceOrder = () => {
 }
 
 export default PlaceOrder
+
+
+
