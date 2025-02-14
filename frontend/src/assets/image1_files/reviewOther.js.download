@@ -1,0 +1,2 @@
+(function($){"use strict";geckoShopify.reviewOther=function(){$("body").on("reviewOther",function(){})}})(jQuery_T4NT),jQuery_T4NT(document).ready(function($){geckoShopify.reviewOther()});
+//# sourceMappingURL=/cdn/shop/t/16/assets/reviewOther.js.map?enable_js_minification=1&v=72029929378534401331685602646

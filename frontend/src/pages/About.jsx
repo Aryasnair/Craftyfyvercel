@@ -14,10 +14,10 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-16'>
           <img className='w-full md:max-w-[450px]' src={assets.aboutus} alt="" />
           <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-              <p>Forever was born out of a passion for innovation and a desire to revolutionize the way people shop online. Our journey began with a simple idea: to provide a platform where customers can easily discover, explore, and purchase a wide range of products from the comfort of their homes.</p>
-              <p>Since our inception, we've worked tirelessly to curate a diverse selection of high-quality products that cater to every taste and preference. From fashion and beauty to electronics and home essentials, we offer an extensive collection sourced from trusted brands and suppliers.</p>
+              <p>At Craftyfy, we believe that every handmade creation tells a story. Our passion for craftsmanship drives us to bring you unique, beautifully designed, and meticulously handcrafted pieces made with love and creativity. From home décor and jewelry to personalized gifts and accessories, each item is a testament to the artistry and dedication of skilled artisans.</p>
+              <p>We celebrate the beauty of imperfections that make handmade crafts truly special. Whether you’re looking for something unique for yourself or a thoughtful gift for a loved one, our collection is designed to inspire and delight.</p>
               <b className='text-gray-800'>Our Mission</b>
-              <p>Our mission at Forever is to empower customers with choice, convenience, and confidence. We're dedicated to providing a seamless shopping experience that exceeds expectations, from browsing and ordering to delivery and beyond.</p>
+              <p>Our mission is to promote the art of handcrafted goods while empowering artisans and craft enthusiasts worldwide. ..</p>
           </div>
       </div>
 
